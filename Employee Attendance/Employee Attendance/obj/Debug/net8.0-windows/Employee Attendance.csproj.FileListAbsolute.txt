@@ -1,0 +1,48 @@
+C:\Users\cg\Documents\programs\Employee Attendance\Employee Attendance\bin\Debug\net8.0-windows\Employee Attendance.exe
+C:\Users\cg\Documents\programs\Employee Attendance\Employee Attendance\bin\Debug\net8.0-windows\Employee Attendance.deps.json
+C:\Users\cg\Documents\programs\Employee Attendance\Employee Attendance\bin\Debug\net8.0-windows\Employee Attendance.runtimeconfig.json
+C:\Users\cg\Documents\programs\Employee Attendance\Employee Attendance\bin\Debug\net8.0-windows\Employee Attendance.dll
+C:\Users\cg\Documents\programs\Employee Attendance\Employee Attendance\bin\Debug\net8.0-windows\Employee Attendance.pdb
+C:\Users\cg\Documents\programs\Employee Attendance\Employee Attendance\obj\Debug\net8.0-windows\Employee_Attendance.Form1.resources
+C:\Users\cg\Documents\programs\Employee Attendance\Employee Attendance\obj\Debug\net8.0-windows\Employee Attendance.csproj.GenerateResource.cache
+C:\Users\cg\Documents\programs\Employee Attendance\Employee Attendance\obj\Debug\net8.0-windows\Employee Attendance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cg\Documents\programs\Employee Attendance\Employee Attendance\obj\Debug\net8.0-windows\Employee Attendance.AssemblyInfoInputs.cache
+C:\Users\cg\Documents\programs\Employee Attendance\Employee Attendance\obj\Debug\net8.0-windows\Employee Attendance.AssemblyInfo.cs
+C:\Users\cg\Documents\programs\Employee Attendance\Employee Attendance\obj\Debug\net8.0-windows\Employee Attendance.csproj.CoreCompileInputs.cache
+C:\Users\cg\Documents\programs\Employee Attendance\Employee Attendance\obj\Debug\net8.0-windows\Employee Attendance.dll
+C:\Users\cg\Documents\programs\Employee Attendance\Employee Attendance\obj\Debug\net8.0-windows\refint\Employee Attendance.dll
+C:\Users\cg\Documents\programs\Employee Attendance\Employee Attendance\obj\Debug\net8.0-windows\Employee Attendance.pdb
+C:\Users\cg\Documents\programs\Employee Attendance\Employee Attendance\obj\Debug\net8.0-windows\Employee Attendance.genruntimeconfig.cache
+C:\Users\cg\Documents\programs\Employee Attendance\Employee Attendance\obj\Debug\net8.0-windows\ref\Employee Attendance.dll
+C:\Users\SR Laptop\source\repos\Employee Attendance\Employee Attendance\bin\Debug\net8.0-windows\Employee Attendance.exe
+C:\Users\SR Laptop\source\repos\Employee Attendance\Employee Attendance\bin\Debug\net8.0-windows\Employee Attendance.deps.json
+C:\Users\SR Laptop\source\repos\Employee Attendance\Employee Attendance\bin\Debug\net8.0-windows\Employee Attendance.runtimeconfig.json
+C:\Users\SR Laptop\source\repos\Employee Attendance\Employee Attendance\bin\Debug\net8.0-windows\Employee Attendance.dll
+C:\Users\SR Laptop\source\repos\Employee Attendance\Employee Attendance\bin\Debug\net8.0-windows\Employee Attendance.pdb
+C:\Users\SR Laptop\source\repos\Employee Attendance\Employee Attendance\obj\Debug\net8.0-windows\Employee_Attendance.Form1.resources
+C:\Users\SR Laptop\source\repos\Employee Attendance\Employee Attendance\obj\Debug\net8.0-windows\Employee Attendance.csproj.GenerateResource.cache
+C:\Users\SR Laptop\source\repos\Employee Attendance\Employee Attendance\obj\Debug\net8.0-windows\Employee Attendance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SR Laptop\source\repos\Employee Attendance\Employee Attendance\obj\Debug\net8.0-windows\Employee Attendance.AssemblyInfoInputs.cache
+C:\Users\SR Laptop\source\repos\Employee Attendance\Employee Attendance\obj\Debug\net8.0-windows\Employee Attendance.AssemblyInfo.cs
+C:\Users\SR Laptop\source\repos\Employee Attendance\Employee Attendance\obj\Debug\net8.0-windows\Employee Attendance.csproj.CoreCompileInputs.cache
+C:\Users\SR Laptop\source\repos\Employee Attendance\Employee Attendance\obj\Debug\net8.0-windows\Employee Attendance.dll
+C:\Users\SR Laptop\source\repos\Employee Attendance\Employee Attendance\obj\Debug\net8.0-windows\refint\Employee Attendance.dll
+C:\Users\SR Laptop\source\repos\Employee Attendance\Employee Attendance\obj\Debug\net8.0-windows\Employee Attendance.pdb
+C:\Users\SR Laptop\source\repos\Employee Attendance\Employee Attendance\obj\Debug\net8.0-windows\Employee Attendance.genruntimeconfig.cache
+C:\Users\SR Laptop\source\repos\Employee Attendance\Employee Attendance\obj\Debug\net8.0-windows\ref\Employee Attendance.dll
+C:\Users\SR Laptop\Desktop\vp assignment\Employee Attendance\Employee Attendance\bin\Debug\net8.0-windows\Employee Attendance.exe
+C:\Users\SR Laptop\Desktop\vp assignment\Employee Attendance\Employee Attendance\bin\Debug\net8.0-windows\Employee Attendance.deps.json
+C:\Users\SR Laptop\Desktop\vp assignment\Employee Attendance\Employee Attendance\bin\Debug\net8.0-windows\Employee Attendance.runtimeconfig.json
+C:\Users\SR Laptop\Desktop\vp assignment\Employee Attendance\Employee Attendance\bin\Debug\net8.0-windows\Employee Attendance.dll
+C:\Users\SR Laptop\Desktop\vp assignment\Employee Attendance\Employee Attendance\bin\Debug\net8.0-windows\Employee Attendance.pdb
+C:\Users\SR Laptop\Desktop\vp assignment\Employee Attendance\Employee Attendance\obj\Debug\net8.0-windows\Employee_Attendance.Form1.resources
+C:\Users\SR Laptop\Desktop\vp assignment\Employee Attendance\Employee Attendance\obj\Debug\net8.0-windows\Employee Attendance.csproj.GenerateResource.cache
+C:\Users\SR Laptop\Desktop\vp assignment\Employee Attendance\Employee Attendance\obj\Debug\net8.0-windows\Employee Attendance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SR Laptop\Desktop\vp assignment\Employee Attendance\Employee Attendance\obj\Debug\net8.0-windows\Employee Attendance.AssemblyInfoInputs.cache
+C:\Users\SR Laptop\Desktop\vp assignment\Employee Attendance\Employee Attendance\obj\Debug\net8.0-windows\Employee Attendance.AssemblyInfo.cs
+C:\Users\SR Laptop\Desktop\vp assignment\Employee Attendance\Employee Attendance\obj\Debug\net8.0-windows\Employee Attendance.csproj.CoreCompileInputs.cache
+C:\Users\SR Laptop\Desktop\vp assignment\Employee Attendance\Employee Attendance\obj\Debug\net8.0-windows\Employee Attendance.dll
+C:\Users\SR Laptop\Desktop\vp assignment\Employee Attendance\Employee Attendance\obj\Debug\net8.0-windows\refint\Employee Attendance.dll
+C:\Users\SR Laptop\Desktop\vp assignment\Employee Attendance\Employee Attendance\obj\Debug\net8.0-windows\Employee Attendance.pdb
+C:\Users\SR Laptop\Desktop\vp assignment\Employee Attendance\Employee Attendance\obj\Debug\net8.0-windows\Employee Attendance.genruntimeconfig.cache
+C:\Users\SR Laptop\Desktop\vp assignment\Employee Attendance\Employee Attendance\obj\Debug\net8.0-windows\ref\Employee Attendance.dll
