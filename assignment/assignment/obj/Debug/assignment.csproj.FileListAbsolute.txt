@@ -1,0 +1,10 @@
+C:\Users\SR Laptop\Desktop\vp assignment\assignment\assignment\bin\Debug\assignment.exe.config
+C:\Users\SR Laptop\Desktop\vp assignment\assignment\assignment\bin\Debug\assignment.exe
+C:\Users\SR Laptop\Desktop\vp assignment\assignment\assignment\bin\Debug\assignment.pdb
+C:\Users\SR Laptop\Desktop\vp assignment\assignment\assignment\obj\Debug\assignment.csproj.AssemblyReference.cache
+C:\Users\SR Laptop\Desktop\vp assignment\assignment\assignment\obj\Debug\assignment.Properties.Resources.resources
+C:\Users\SR Laptop\Desktop\vp assignment\assignment\assignment\obj\Debug\assignment.csproj.GenerateResource.cache
+C:\Users\SR Laptop\Desktop\vp assignment\assignment\assignment\obj\Debug\assignment.csproj.CoreCompileInputs.cache
+C:\Users\SR Laptop\Desktop\vp assignment\assignment\assignment\obj\Debug\assignment.exe
+C:\Users\SR Laptop\Desktop\vp assignment\assignment\assignment\obj\Debug\assignment.pdb
+C:\Users\SR Laptop\Desktop\vp assignment\assignment\assignment\obj\Debug\assignment.exe.config
